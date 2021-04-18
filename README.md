@@ -1,6 +1,6 @@
 # Assignment-3-Inf-Theory
 Input: “Text.txt” file and the result from Part 1. 
-Goal: Encode the text from the “Text.txt” file using Huffman algorithm with  probabilities from Part 1.  
+Goal: Encode the text from “Text.txt” file using Huffman algorithm with  probabilities from Part 1.  
 
 1. Symbols with probabilities sorted in descending order (round to three decimal places). Please  also add the notations for whitespace, new line, tab and etc. in order to distinguish them. 
 2. Build Shannon-Fano or Huffman code tree based on the given list with probabilities. Include  all intermediate steps. 
